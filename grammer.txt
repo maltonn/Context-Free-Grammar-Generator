@@ -1,0 +1,5 @@
+S -> aX
+X -> Sa
+S -> bY
+Y -> Sb
+S -> _
