@@ -1,5 +1,13 @@
-S -> aX
-X -> Sa
-S -> bY
-Y -> Sb
-S -> _
+# aとbの個数が等しい文を生成する文法
+
+S -> AB
+S -> BA
+
+A -> AS
+A -> BAA
+
+B -> BS
+B -> ABB
+
+A -> a
+B -> b
